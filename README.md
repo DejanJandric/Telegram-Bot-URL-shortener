@@ -26,20 +26,20 @@ Security: Uses environment variables to protect API tokens.
 
 ## Installation
 
-git clone https://github.com/Telegram-Bot-URL-shortener
+- git clone https://github.com/Telegram-Bot-URL-shortener
 
 
 ## Install dependencies
 
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ## Create a .env file in the root directory and add your token:
 
-TELEGRAM_TOKEN=your_token_here
+- TELEGRAM_TOKEN=your_token_here
 
 ## Run the bot :
 
-python telegram_bot.py
+- python telegram_bot.py
 
 
 
