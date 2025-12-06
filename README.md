@@ -18,6 +18,16 @@
 - Security: Uses environment variables to protect API tokens.
 
 
+## 🤖 Bot Commands
+
+| Command | Usage | Description |
+| :--- | :--- | :--- |
+| **Shorten Link** | `!shorten <url>` | Explicitly shortens the provided URL (e.g., `!shorten https://google.com`). |
+| **Auto-Detect** | `https://...` | Just paste any long link directly into the chat; the bot will detect and shorten it automatically. |
+| **Help** | `!help` | Displays a welcome message and basic usage instructions. |
+| **Command List** | `!commandlist` | detailed list of all available commands. |
+| **Custom Alias** | `!custom <url> <alias>` | *(Beta)* Attempt to create a custom link alias (requires specific API configuration). |
+
 
 ## Screenshots
 
