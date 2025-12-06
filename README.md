@@ -45,7 +45,7 @@ python telegram_bot.py
 
 ## Tech Stack
 
-**Language**: Python 3.x
+**Language**: Python 3.14.0
 
 **Libraries**: python-telegram-bot, pyshorteners, python-dotenv
 
