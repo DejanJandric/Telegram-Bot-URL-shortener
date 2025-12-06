@@ -8,7 +8,7 @@
   </p>
   
   <p>
-    <a href="[https://github.com/Telegram-Bot-URL-shortener](https://github.com/Telegram-Bot-URL-shortener)/issues">Report Bug</a>
+    <a href="[[https://github.com/Telegram-Bot-URL-shortener/issues">Report Bug</a>
     ·
     <a href="https://github.com/Telegram-Bot-URL-shortener/pulls">Request Feature</a>
   </p>
