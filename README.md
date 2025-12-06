@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[photo_2025-11-20_16-59-31.jpg](https://ibb.co/VYVKF4GQ)" alt="Infinite Bot Logo" width="200" height="200">
+  <img src="[photo_2025-11-20_16-59-31.jpg](https://ibb.co/VYVKF4GQ)">
   
   <h1>Infinite Bot</h1>
   
