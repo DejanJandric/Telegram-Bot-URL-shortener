@@ -21,7 +21,7 @@ Security: Uses environment variables to protect API tokens.
 
 ## Screenshots
 
-![Infinite Bot](https://freeimage.host/i/fudnL0J)
+![photo_2025-11-20_16-59-31](https://github.com/user-attachments/assets/fde1eaa4-f90b-4d34-851f-c2568813c919)
 
 
 ## Installation
