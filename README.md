@@ -3,25 +3,24 @@
 
 📖 **Overview** 
 
-Infinite Bot is a Python-based automation tool designed for Telegram. 
-It streamlines link management by converting long, cumbersome URLs into concise short links using the pyshorteners library (TinyURL integration).
+- Infinite Bot is a Python-based automation tool designed for Telegram. 
+- It streamlines link management by converting long, cumbersome URLs into concise short links using the pyshorteners library (TinyURL integration).
 
 
 🚀 **Features**
 
-Auto-Detection: The bot automatically detects valid URLs (HTTP/HTTPS) within any text message using RegEx. 
+- Auto-Detection: The bot automatically detects valid URLs (HTTP/HTTPS) within any text message using RegEx. 
 
-Command Interface: Supports explicit commands like !shorten and !help. 
+- Command Interface: Supports explicit commands like !shorten and !help. 
 
-Error Handling: Gracefully handles invalid URLs or API timeouts. 
+- Error Handling: Gracefully handles invalid URLs or API timeouts. 
 
-Security: Uses environment variables to protect API tokens.
+- Security: Uses environment variables to protect API tokens.
 
 
 
 ## Screenshots
 
-![photo_2025-11-20_16-59-31](https://github.com/user-attachments/assets/fde1eaa4-f90b-4d34-851f-c2568813c919)
 <img width="390" height="237" alt="Infinitebot" src="https://github.com/user-attachments/assets/3edfb31f-d58e-440e-9775-cbdacdbcdc82" />
 
 
