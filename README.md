@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/b852e5de-612c-4f21-916b-ad947de47493" />
-)">
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/87ff43f5-6359-4258-9386-4180057cea05" />
+
   
   <h1>Infinite Bot</h1>
   
