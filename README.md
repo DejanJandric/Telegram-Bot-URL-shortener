@@ -1,4 +1,20 @@
-**Infinite Bot - Telegram URL Shortener**
+<div align="center">
+  <img src="photo_2025-11-20_16-59-31.jpg" alt="Infinite Bot Logo" width="200" height="200">
+  
+  <h1>Infinite Bot</h1>
+  
+  <p>
+    <b>Telegram URL Shortener</b>
+  </p>
+  
+  <p>
+    <a href="https://github.com/YourUsername/infinite-bot/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/YourUsername/infinite-bot/pulls">Request Feature</a>
+  </p>
+</div>
+
+<br />
 
 
 📖 **Overview** 
