@@ -54,7 +54,7 @@
 
 ## Installation
 
-- git clone https://github.com/Telegram-Bot-URL-shortener
+- git clone [https://github.com/Telegram-Bot-URL-shortener](https://github.com/DejanJandric/Telegram-Bot-URL-shortener)
 
 
 ## Install dependencies
